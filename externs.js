@@ -1,0 +1,2 @@
+var process = {};
+process.argv = [];
